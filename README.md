@@ -1,6 +1,6 @@
 # NLP demos
 * Topic identification
-  * English
+  * [English](https://github.com/BruchesLena/topic_identification/wiki/Topic-Identification-(English))
   * Russian
 * Sentiment analysis
   * English
