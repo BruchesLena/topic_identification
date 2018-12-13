@@ -1,2 +1,9 @@
-# topic_identification
-Demo for topic identifation task
+# NLP demos
+* Topic identification
+  * [English](https://github.com/BruchesLena/topic_identification/wiki/Topic-Identification-(English))
+  * [Russian](https://github.com/BruchesLena/topic_identification/wiki/Topic-Identification-(Russian))
+* Sentiment analysis
+  * [English](https://github.com/BruchesLena/topic_identification/wiki/Sentiment-analysis-(English))
+* Named entity recognition
+  * English
+  * Russian
