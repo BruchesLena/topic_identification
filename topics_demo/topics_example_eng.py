@@ -1,6 +1,6 @@
-from topics_demo.predictor_rus import Predictor
+from topics_demo.topics_predictor_eng import PredictorEnglish
 
-predictor = Predictor()
+predictor = PredictorEnglish()
 while True:
     text = input('text:\n')
     topics = predictor.predict(text)
