@@ -6,4 +6,4 @@
   * [English](https://github.com/BruchesLena/topic_identification/wiki/Sentiment-analysis-(English))
 * Named entity recognition
   * [English](https://github.com/BruchesLena/topic_identification/wiki/Named-entity-recogntion-(English))
-  * Russian
+  * [Russian](https://github.com/BruchesLena/topic_identification/wiki/Named-entity-recognition-(Russian))
