@@ -1,4 +1,4 @@
-from predictor_eng import Predictor
+from sentiment_demo.sent_predictor_eng import Predictor
 
 predictor = Predictor()
 while True:
